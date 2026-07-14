@@ -6,4 +6,4 @@ Ce dépôt contient uniquement les installateurs Windows et les paquets de mise 
 
 ## Installation
 
-Téléchargez `DndCompanion-Setup.exe` depuis la [dernière release](https://github.com/AmostQc/DndCompanion-Releases/releases/latest), puis exécutez-le une seule fois. Les mises à jour suivantes sont détectées et installées automatiquement au lancement de DndCompanion.
+Téléchargez `DndCompanion-win-Setup.exe` depuis la [dernière release](https://github.com/AmostQc/DndCompanion-Releases/releases/latest), puis exécutez-le une seule fois. Les mises à jour suivantes sont détectées et installées automatiquement au lancement de DndCompanion.
